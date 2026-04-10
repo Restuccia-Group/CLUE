@@ -1,4 +1,4 @@
-The code structure of this project is adapted from the [SalUn]([https://github.com/OPTML-Group/Unlearn-Sparse](https://github.com/OPTML-Group/Unlearn-Saliency)) codebase.
+The code structure of this project is adapted from the [SalUn]([https://github.com/OPTML-Group/Unlearn-Sparse])(https://github.com/OPTML-Group/Unlearn-Saliency) codebase.
 
 
 ## Requirements
