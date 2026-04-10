@@ -1,5 +1,4 @@
-# Saliency-Unlearning for Classification
-This is the official repository for Saliency Unlearning for Clasification. The code structure of this project is adapted from the [Sparse Unlearn](https://github.com/OPTML-Group/Unlearn-Sparse) codebase.
+The code structure of this project is adapted from the [SalUn]([https://github.com/OPTML-Group/Unlearn-Sparse](https://github.com/OPTML-Group/Unlearn-Saliency)) codebase.
 
 
 ## Requirements
